@@ -2,11 +2,11 @@
 
 Bare minimum boilerplate for building apps with Meteor and React. The libraries included are:
 - [React](https://reactjs.org)
-- [React-router-dom](https://reacttraining.com/react-router/web/guides/philosophy)
 - [prop-types](https://www.npmjs.com/package/prop-types)
-- [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb)
+- [React-router-dom](https://reacttraining.com/react-router/web/guides/philosophy)
 
-The app's skeleton is organized according to the latest [meteor's guidelines.](https://guide.meteor.com/structure.html#javascript-structure)
+The app's skeleton is organized according to the latest [meteor's guidelines.](https://guide.meteor.com/structure.html#javascript-structure).
+
 The following packages have been removed from meteor:
 - `autopublish` (publish the entire database to all clients)
 - `insecure` (allow all database writes from the client)
